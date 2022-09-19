@@ -91,3 +91,82 @@ background-color: #ececf5;
 .order {
 order:1;
 }
+
+.section4 {
+    background-color: #605c5f;
+}
+.container1 {
+    width: 80%;
+    margin: auto;
+    }
+
+
+.img2 {
+    height: 200px;
+    background-color: rgb(70, 132, 66) ;
+    
+}
+.text2 {
+    background-color: rgb(12, 51, 9) ;
+    height: 200px;
+}
+
+.text3 {
+    background-color: rgb(125, 152, 123) ;
+    height: 200px;
+}
+
+.footer {
+    width: 100%;
+    height: 700px;
+    background-color: rgb(120, 121, 119);
+    display: flex;
+    margin: 0 auto;
+    justify-content: center;
+}
+
+ul {
+height: 700px;
+}
+
+
+.column1 {
+    flex-basis: 20%;
+    background-color: #641212;
+}
+.column2 {
+    flex-basis: 20%;
+    background-color: #f20909;
+}
+.column3 {
+    flex-basis: 20%;
+    background-color: #eb5a5a;
+}
+.column4 {
+    flex-basis: 20%;
+    background-color: #591515;
+}
+
+.finish {
+    width: 80%;
+    padding: 10px;
+    background-color: rgb(9, 245, 233);
+    display: flex;
+    justify-content: space-between;
+    margin: auto;
+}
+
+.Discord2 {
+    background: #022797;
+    flex-basis: 10%;
+    height: 50px;
+}
+
+.Registrati {
+    background: #022797;
+    flex-basis: 10%;
+    height: 50px;
+
+}
+
+
