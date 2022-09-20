@@ -21,6 +21,7 @@ background-color:  #97979f}
 .nav-bar {
     background-color: #f20909;
     width: 65%;
+    margin: 0 auto;
     height: 50px;
     display: flex;
     justify-content:space-around;
@@ -29,15 +30,13 @@ background-color:  #97979f}
 
 .Discord {
     width: 10%;
-    height: 50px;
-background-color: rgb(19, 253, 19);
+background-color: rgb(249, 252, 249);
 }
 
 
 .Login  {
     width: 10%;
-    height: 50px;
-background-color: rgb(19, 253, 19);
+background-color: rgb(234, 243, 234);
 }
 
 .text-info {
